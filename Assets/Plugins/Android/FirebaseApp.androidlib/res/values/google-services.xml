@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">748542469278</string>
+  <string name="google_storage_bucket" translatable="false">rift-34c15.appspot.com</string>
+  <string name="project_id" translatable="false">rift-34c15</string>
+  <string name="google_api_key" translatable="false">AIzaSyC-0We-DDcr5YAXCf1V7dxqv1ywLFJL0Ls</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC-0We-DDcr5YAXCf1V7dxqv1ywLFJL0Ls</string>
+  <string name="google_app_id" translatable="false">1:748542469278:android:0816a8f682e99dc6b8c78f</string>
+  <string name="default_android_client_id" translatable="false">748542469278-k48kdjk3j2lthj55da99eihugt48nj2q.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">748542469278-ui177gtpg9cufljdbtolc4h82aanrd62.apps.googleusercontent.com</string>
+</resources>

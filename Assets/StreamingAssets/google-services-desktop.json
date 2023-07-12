@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748542469278",
+    "project_id": "rift-34c15",
+    "storage_bucket": "rift-34c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748542469278:android:0816a8f682e99dc6b8c78f",
+        "android_client_info": {
+          "package_name": "com.TKH_Project.RIFT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748542469278-k48kdjk3j2lthj55da99eihugt48nj2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.TKH_Project.RIFT",
+            "certificate_hash": "4d6ee1f9f956dca7c56cb6eaa12a88fe44eb7527"
+          }
+        },
+        {
+          "client_id": "748542469278-ui177gtpg9cufljdbtolc4h82aanrd62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0We-DDcr5YAXCf1V7dxqv1ywLFJL0Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748542469278-7pm4bas47prlbslvfk8tehf4a5ss1h8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
